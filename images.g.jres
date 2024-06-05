@@ -9,6 +9,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "spaceship_1"
     },
+    "image3": {
+        "data": "hwQMABAAAAAAACBAAAAAAAAAAFJEAAAAAAAAQlQEAAAgAPhCRFQEAJDyGEQiIlIAAvlRVVVVVVYC+V9VVVVVVpDyWEQiIlIAIAD4QkRUBAAAAABCVAQAAAAAAFJEAAAAAAAgQAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ennemi_1"
+    },
+    "image4": {
+        "data": "hwQQABQAAAAAAABAmZaZlgAAAAAAAABAZmZm1gAAAAAAAAAAYNbd3QAAAAAAAAAAYGYAAAAAAAAAAAAAAGAGAAAAAAAAAGlmZmZmZgBpAAAAlmaZZplpaWBmAACZlmaZmWmZmZZpAACZZmZmZmZmZpZmAAAAlmZmZmZmZpBpAAAAAGZmZmZmZgBpAAAAAAAAAAAGAAAAAAAAAAAAAGYGAAAAAAAAAAAAYNbd3QAAAAAAAABAlpaZ1gAAAAAAAABAZmZmZgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ennemi_2"
+    },
+    "image5": {
+        "data": "hwQVAAwAAAAAAAAuAAAAAAAAAORSAAAAAABARC4AAAAAAEBFJAUAAAAAQETkAgAAAJmZREQCAACQmZhJRQIAAJmZiUlEAgAAmZmJSUQCAACZmZmZRAIAAJmZmZlEAgAAGZGZmUQCAAAZkZlJRAIAAJkRmUlEAgAAkBmRSUUCAAAAmZlERAIAAAAAQETkAgAAAABARSQFAAAAAEBELgAAAAAAAORSAAAAAAAALgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ennmi_3"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
