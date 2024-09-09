@@ -1,6 +1,6 @@
 {
     "name": "tutorial_asset_exemple",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "dependencies": {
         "device": "*"
